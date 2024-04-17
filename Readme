@@ -1,1 +1,2 @@
-Masterarbeit.ipynb contains all functions and methods used 
+Masterarbeit.ipynb contains all functions and methods that where used during the work on the Master's thesis. Should be run with care and not all cells at once as some functions don't work in combination with others and should be selected dependent on the purpose of the anaylsis. 
+Plot_Master.ipynb can be run to reproduce all Figures presented in the thesis. Can be run at once. 
